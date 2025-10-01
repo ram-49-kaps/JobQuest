@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "multer": "^1.4.5-lts.2",
+    "openai": "^4.91.1",
+    "passport": "^0.7.0",
+    "passport-google-oauth20": "^2.0.0"
+  }
+}
